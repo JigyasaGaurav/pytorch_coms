@@ -1,0 +1,3 @@
+[submodule "offline_benchmark"]
+	path = offline_benchmark
+	url = https://github.com/aryandeshwal/offline_benchmark.git
